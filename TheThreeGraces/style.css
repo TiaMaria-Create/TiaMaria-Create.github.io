@@ -1,0 +1,87 @@
+body{
+    background-color: black;
+}
+
+#graces {
+    color: white;
+    float: center;
+    position: absolute;
+    font-family: "Bookmania";
+    font-weight: lighter;
+    font-size: 68px;
+    margin-top: 42%;
+    margin-left: 30%;
+    font-kerning: initial;
+    letter-spacing: 20px;
+    text-align: center;
+}
+#grace_statue {
+    position: marker;
+    margin-top: -4%;
+    /*-8*/
+    margin-left: 10%;
+    /*40*/
+    width: 75%;
+    height: 75%;
+}
+ nav{
+text-align: center;
+     margin-top: 2%;
+ }
+
+ #artistName{
+     position: center;
+     font-family: "Bebas Kai";
+     color:White;
+     font-size: 228px;
+     margin-top: -46%;
+     text-align: center;
+ }
+ #nav{
+     text-align: center;
+     font-size: 22px;
+     color:white;
+     display: inline-block;
+     margin-right: 1%
+ }
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+
+
+#shadow{
+    position: relative;
+    margin-left: 155px;
+    margin-top: -29%;
+}
+
+#logo{
+         position: absolute;
+          animation-name: spin;
+          animation-duration: 5000ms;
+          animation-iteration-count: infinite;
+          animation-timing-function: linear;
+
+      }
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+#sectionA{
+}
+
+#section2 {
+}
+

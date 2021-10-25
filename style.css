@@ -17,10 +17,10 @@ body{
 }
 #grace_statue {
     position: marker;
-    margin-top: -8%;
+    margin-top: -4%;
     /*-8* to align left*/
     /*-4 to align center*/
-    margin-left: 40%;
+    margin-left: 10%;
     /*40*/
     /*10 to align center*/
     width: 75%;
@@ -85,9 +85,34 @@ a:visited {
     color:white;
     font-size: 28px;
 text-align: center;
-    margin-left: -40%;
-    margin-top: -42%;
+    /*margin-left: -40%;*/
+    margin-top: 15%;
     text-indent: 35px;
     font-family: "Bookmania";
 }
 
+#more{
+    color:white;
+    font-size: 28px;
+    text-align: center;
+    /*margin-left: -40%;*/
+    margin-top: 5%;
+    text-indent: 35px;
+    font-family: "Bookmania";
+}
+
+#moreInfo{
+    color:white;
+    font-size: 28px;
+    text-align: center;
+    /*margin-left: -40%;*/
+    margin-top: 10%;
+    text-indent: 35px;
+    font-family: "Bookmania";
+}
+
+
+#statue_banner {
+    width: 99%;
+    height: 99%;
+}

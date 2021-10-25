@@ -77,6 +77,6 @@ while (playGame) {
     } else {
         answer2 = prompt("Please only enter yes or no.");
     }
-}
+
 
 }

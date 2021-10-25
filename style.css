@@ -4,7 +4,6 @@ body{
 
 #graces {
     color: white;
-    float: center;
     position: absolute;
     font-family: "Bookmania";
     font-weight: lighter;
@@ -115,4 +114,9 @@ text-align: center;
 #statue_banner {
     width: 99%;
     height: 99%;
+}
+
+#statue_banner2 {
+    width: 100%;
+    height: 100%;
 }
